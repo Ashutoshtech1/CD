@@ -75,7 +75,7 @@ else
  {
  str[k]='\0';
  keyword(str);
- k=0; }
+ k=0; } 
  }
  fclose(f2);
 f3=fopen("specialchar","r");
